@@ -1,0 +1,39 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- basic_chat.aiml -->
+
+    <category>
+        <pattern>HELLO</pattern>
+        <template>
+            Well, hello!
+        </template>
+    </category>
+    
+    <category>
+        <pattern>WHAT ARE YOU</pattern>
+        <template>
+            I'm a bot, silly!
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT CAN YOU DO</pattern>
+        <template>
+            I can talk with u!
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHO IS NARENDRA MODI</pattern>
+        <template>
+            He is current Indian Prime minister!
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT IS UNIVERSE</pattern>
+        <template>
+            Universe is Lie!
+        </template>
+    </category>   
+
+</aiml>
