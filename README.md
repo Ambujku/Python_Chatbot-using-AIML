@@ -6,6 +6,6 @@ AIML stands for Artificial intelligence Markup Language.
 
 To run python script please install requirement.txt
 
-for more information visit:  http://www.alicebot.org/documentation/aiml-primer.html
+for more information visit:  https://www.pandorabots.com/docs/aiml/aiml-basics.html
 
 
